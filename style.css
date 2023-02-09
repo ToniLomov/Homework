@@ -232,8 +232,12 @@ ul{
     }
     .main__nav__ul{
         overflow: hidden;
-        max-width: none;
+        min-width: 0px;
+        margin: 8px 0px 15px;
         justify-content: space-between;
+    }
+    .main__nav__ul__li:first-child{
+        min-width: 0px;
     }
     .main__nav__ul__li{
         margin-right: 0px;
