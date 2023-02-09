@@ -230,6 +230,9 @@ ul{
     .main__nav__wrapper{
         margin-left:32px;
     }
+    .main__nav__ul{
+        overflow:none;
+    }
     .main__text__title{
         display:block;
         margin-left: 22px;
