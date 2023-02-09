@@ -237,6 +237,7 @@ ul{
     }
     .main__nav__ul__li{
         margin-right: 0px;
+        min-width: 0px;
     }
     .main__nav__ul__item-2{
         width: 220px;
