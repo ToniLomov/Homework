@@ -228,12 +228,11 @@ ul{
         margin-left: 34px;
     }
     .main__nav__wrapper{
-        margin:0 32px;
+        margin:8px 32px 15px ;
     }
     .main__nav__ul{
         overflow: hidden;
         min-width: 0px;
-        margin: 8px 0px 15px;
         justify-content: space-between;
     }
     .main__nav__ul__li:first-child{
