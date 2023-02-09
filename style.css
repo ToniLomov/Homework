@@ -231,7 +231,24 @@ ul{
         margin-left:32px;
     }
     .main__nav__ul{
-        overflow:none;
+        overflow: hidden;
+        max-width: none;
+        justify-content: space-between;
+    }
+    .main__nav__ul__li{
+        margin: 0;
+    }
+    .main__nav__ul__item-2{
+        width: 220px;
+    }
+    .main__nav__ul__item-3{
+        width: 118px;
+    }
+    .main__nav__ul__item-4{
+        width: 217;
+    }
+    .main__nav__ul__item-5{
+        width: 168;
     }
     .main__text__title{
         display:block;
